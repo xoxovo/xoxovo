@@ -28,5 +28,5 @@
 ## 🍭 𝙎𝙩𝙖𝙩𝙨
 
 <p align="left">
-<img alt="Edward's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=iCrackit">
+<img alt="Edward's github stats" height='230' src="https://github-readme-stats-xoxovo.vercel.app/api/top-langs/?username=xoxovo">
 </p>
