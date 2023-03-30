@@ -1,32 +1,31 @@
+# Hey there <img src="https://raw.githubusercontent.com/xoxovo/xoxovo/main/Hi.gif" width="30px"> 
 
-<h1 align="center">Hi, I'm <a href="https://biubiubiu.ml">Edward</a>!</h1>
-<h1 align="center">𝙖 𝙨𝙤𝙥𝙝𝙤𝙢𝙤𝙧𝙚 𝙢𝙖𝙟𝙤𝙧𝙞𝙣𝙜 𝙞𝙣 𝙁𝙧𝙤𝙣𝙩-𝙀𝙣𝙙.</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&size=22&pause=1000&color=33F6F7&vCenter=true&width=435&lines=I+am+Edward;Full-stack+web+and+app+developer;Always+learning+new+things;Nice+to+meet+you..!)](https://git.io/typing-svg)
 
-## 🍀 𝘾𝙤𝙣𝙩𝙖𝙘𝙩
+## A little more about me...  
 
-- Blog：[biubiubiu.ml](https://biubiubiu.ml)
-- Email：[edward.xyz@qq.com](mailto:edward.xyz@qq.com)
+My name is Edward. I'm a web and app developer who loves building ideas and projects. I place a deep interest and actively contribute to the open source ecosystem. Recently, I've picked up a passion for producing technical articles and creating content that are truly beneficial to other developers. You can find some of my works on [My Blog](https://xoxovo.eu.org/).
 
-<a href="https://biubiubiu.ml/"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
+I'm highly sociable, so feel free to DM or ask me any question anywhere I exist on the internet. Just don't say "Hi", alone. :)
 
-## 🌈 𝙈𝙮 𝙏𝙚𝙘𝙠 𝙎𝙩𝙖𝙘𝙠
+## My Skills
 
-[![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS) 
-[![Editor](https://img.shields.io/badge/Editor-Webstorm-blue?style=flat-square&logo=webstorm&logoColor=white)](https://code.visualstudio.com/)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=biubiubiu.ml&url=https%3A%2F%2Fshields.io)](https://biubiubiu.ml)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,vue,vite,css,sass,tailwindcss,electron,dart,flutter,swift,go,mysql,py,markdown,github,git,linux,azure,cloudflare)](https://skillicons.dev)
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) 
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) 
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
+If you have any job or freelance opportunities for me, kindly send me an <a href="mailto:edward.xyz@qq.com">email</a>.
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) 
-![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white) 
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff) 
-![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+## My GitHub Summary: 
 
-## 🍭 𝙎𝙩𝙖𝙩𝙨
+Feel free to take a look at my __GitHub__ overview. This gives a good understanding of the __languages__ used along with the total commits.
 
-<p align="left">
-<img alt="Edward's github stats" height='230' src="https://github-readme-stats-xoxovo.vercel.app/api/top-langs/?username=xoxovo">
-</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xoxovo/xoxovo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xoxovo/xoxovo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xoxovo/xoxovo/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
