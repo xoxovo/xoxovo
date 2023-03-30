@@ -19,6 +19,25 @@ If you have any job or freelance opportunities for me, kindly send me an <a href
 Feel free to take a look at my __GitHub__ overview. This gives a good understanding of the __languages__ used along with the total commits.
 
 <!--START_SECTION:waka-->
+
+```text
+From: 11 April 2021 - To: 29 March 2023
+
+Total Time: 257 hrs 59 mins
+
+Python             64 hrs 32 mins  >>>>>>-------------------   25.01 %
+HTML               59 hrs 23 mins  >>>>>>-------------------   23.02 %
+JavaScript         49 hrs 16 mins  >>>>>--------------------   19.10 %
+Go                 23 hrs 29 mins  >>-----------------------   09.11 %
+Dart               20 hrs 30 mins  >>-----------------------   07.95 %
+CSS                17 hrs 2 mins   >>-----------------------   06.61 %
+Markdown           5 hrs 33 mins   >------------------------   02.16 %
+JSON               4 hrs 5 mins    -------------------------   01.59 %
+LESS               2 hrs 55 mins   -------------------------   01.13 %
+Bash               2 hrs 30 mins   -------------------------   00.97 %
+Text               1 hr 47 mins    -------------------------   00.69 %
+```
+
 <!--END_SECTION:waka-->
 
 <picture>
