@@ -1,6 +1,6 @@
 # Hey there <img src="https://raw.githubusercontent.com/xoxovo/xoxovo/main/Hi.gif" width="30px"> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&size=22&pause=1000&color=33F6F7&vCenter=true&width=435&lines=I+am+Edward;Full-stack+web+and+app+developer;Always+learning+new+things;Nice+to+meet+you..!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&size=22&pause=1000&color=1D9EF7FF&vCenter=true&width=435&lines=I+am+Edward;Full-stack+web+and+app+developer;Always+learning+new+things;Nice+to+meet+you..!)](https://git.io/typing-svg)
 
 ## A little more about me...  
 
