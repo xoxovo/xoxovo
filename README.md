@@ -46,5 +46,4 @@ Text               1 hr 47 mins    -------------------------   00.69 %
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xoxovo/xoxovo/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
