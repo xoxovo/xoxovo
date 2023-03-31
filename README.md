@@ -4,7 +4,7 @@
 
 ## A little more about me...  
 
-My name is Edward. I'm a web and app developer who loves building ideas and projects. I place a deep interest and actively contribute to the open source ecosystem. Recently, I've picked up a passion for producing technical articles and creating content that are truly beneficial to other developers. You can find some of my works on [My Blog](https://xoxovo.eu.org/).
+My name is Edward. I'm a web and app developer who loves building ideas and projects. I place a deep interest and actively contribute to the open source ecosystem. Recently, I've picked up a passion for producing technical articles and creating content that are truly beneficial to other developers. You can find some of my works on my [Blog](https://xoxovo.eu.org/).
 
 I'm highly sociable, so feel free to DM or ask me any question anywhere I exist on the internet. Just don't say "Hi", alone. :)
 
