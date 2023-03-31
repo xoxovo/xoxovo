@@ -14,9 +14,9 @@ I'm highly sociable, so feel free to DM or ask me any question anywhere I exist 
 
 If you have any job or freelance opportunities for me, kindly send me an <a href="mailto:edward.xyz@qq.com">email</a>.
 
-## My GitHub Summary: 
+## My Coding Summary: 
 
-Feel free to take a look at my __GitHub__ overview. This gives a good understanding of the __languages__ used along with the total commits.
+Feel free to take a look at my __WakaTime__ overview. This gives a good understanding of the __languages__ used.
 
 <!--START_SECTION:waka-->
 
