@@ -10,7 +10,7 @@ I'm highly sociable, so feel free to DM or ask me any question anywhere I exist 
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,vue,vite,css,sass,tailwindcss,electron,dart,flutter,swift,go,mysql,py,markdown,github,git,linux,azure,cloudflare)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,vue,css,sass,tailwindcss,dart,flutter,swift,go,mysql,py,markdown,github,git,linux,azure,cloudflare)](https://skillicons.dev)
 
 If you have any job or freelance opportunities for me, kindly send me an <a href="mailto:edward.xyz@qq.com">email</a>.
 
