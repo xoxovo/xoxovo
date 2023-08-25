@@ -21,7 +21,7 @@ Feel free to take a look at my __WakaTime__ overview. This gives a good understa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 April 2021 - To: 23 August 2023
+From: 11 April 2021 - To: 24 August 2023
 
 Total Time: 297 hrs 7 mins
 
