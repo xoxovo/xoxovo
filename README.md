@@ -21,20 +21,20 @@ Feel free to take a look at my __WakaTime__ overview. This gives a good understa
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 April 2021 - To: 07 January 2024
+From: 11 April 2021 - To: 08 January 2024
 
-Total Time: 384 hrs 48 mins
+Total Time: 388 hrs 30 mins
 
-Python             84 hrs 37 mins  >>>>>--------------------   21.99 %
-HTML               65 hrs 54 mins  >>>>---------------------   17.13 %
-Dart               60 hrs 7 mins   >>>>---------------------   15.62 %
-JavaScript         55 hrs 8 mins   >>>>---------------------   14.33 %
-Go                 47 hrs 34 mins  >>>----------------------   12.36 %
-CSS                17 hrs 6 mins   >------------------------   04.45 %
-Swift              14 hrs 1 min    >------------------------   03.64 %
-Markdown           6 hrs 8 mins    -------------------------   01.60 %
-JSON               5 hrs 59 mins   -------------------------   01.55 %
-Text               5 hrs 43 mins   -------------------------   01.49 %
+Python             84 hrs 37 mins  >>>>>--------------------   21.78 %
+HTML               65 hrs 54 mins  >>>>---------------------   16.96 %
+Dart               63 hrs 30 mins  >>>>---------------------   16.35 %
+JavaScript         55 hrs 8 mins   >>>>---------------------   14.19 %
+Go                 47 hrs 51 mins  >>>----------------------   12.32 %
+CSS                17 hrs 6 mins   >------------------------   04.40 %
+Swift              14 hrs 1 min    >------------------------   03.61 %
+Markdown           6 hrs 8 mins    -------------------------   01.58 %
+JSON               5 hrs 59 mins   -------------------------   01.54 %
+Text               5 hrs 43 mins   -------------------------   01.47 %
 ```
 
 <!--END_SECTION:waka-->
