@@ -1,16 +1,16 @@
 # Hey there <img src="https://raw.githubusercontent.com/xoxovo/xoxovo/main/Hi.gif" width="30px"> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&size=22&pause=1000&color=1D9EF7FF&vCenter=true&width=435&lines=I+am+Edward;Full-stack+web+and+app+developer;Always+learning+new+things;Nice+to+meet+you..!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&size=22&pause=1000&color=1D9EF7FF&vCenter=true&width=435&lines=I+am+Edward;Full-stack+app+developer;Always+learning+new+things;Nice+to+meet+you..!)](https://git.io/typing-svg)
 
 ## A little more about me...  
 
-My name is Edward. I'm a web and app developer who loves building ideas and projects. I place a deep interest and actively contribute to the open source ecosystem. Recently, I've picked up a passion for producing technical articles and creating content that are truly beneficial to other developers. You can find some of my works on my [Blog](https://xoxovo.eu.org/).
+My name is Edward. I'm an app developer who loves building ideas and projects. I place a deep interest and actively contribute to the open source ecosystem. Recently, I've picked up a passion for producing technical articles and creating content that are truly beneficial to other developers.
 
 I'm highly sociable, so feel free to DM or ask me any question anywhere I exist on the internet. Just don't say "Hi", alone. :)
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,vue,css,sass,tailwindcss,dart,flutter,swift,go,mysql,py,markdown,github,git,linux,azure,cloudflare)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,flutter,dart,swift,py,javascript,docker,mysql,markdown,github,git,linux,azure,cloudflare)](https://skillicons.dev)
 
 If you have any job or freelance opportunities for me, kindly send me an <a href="mailto:edward.xyz@qq.com">email</a>.
 
