@@ -44,5 +44,3 @@ Protocol Buffer    7 hrs 29 mins   -------------------------   01.16 %
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xoxovo/xoxovo/output/github-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xoxovo/xoxovo/output/github-snake.svg">
 </picture>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
